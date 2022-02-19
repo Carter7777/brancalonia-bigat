@@ -17,7 +17,7 @@
   "protected": false,
   "background": "worlds/brancalonia-bigat/images/cover.jpg",
   "manifest": "https://raw.githubusercontent.com/Carter7777/brancalonia-bigat/master/world.json",
-  "download": "https://github.com/Carter7777/brancalonia-bigat/archive/refs/heads/master.zip",
+  "download": "https://codeload.github.com/Carter7777//brancalonia-bigat/zip/master",
   "coreVersion": "9.249",
   "resetKeys": false,
   "safeMode": false,
