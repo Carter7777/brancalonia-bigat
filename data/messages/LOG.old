@@ -1,0 +1,7 @@
+2023/08/31-12:45:21.001 30ec Recovering log #16
+2023/08/31-12:45:21.021 30ec Delete type=0 #16
+2023/08/31-12:45:21.022 30ec Delete type=3 #14
+2023/08/31-13:14:04.306 2d58 Level-0 table #21: started
+2023/08/31-13:14:04.307 2d58 Level-0 table #21: 0 bytes OK
+2023/08/31-13:14:04.310 2d58 Delete type=0 #19
+2023/08/31-13:14:04.324 2d58 Manual compaction at level-0 from '!messages!XV9QZvp77nFPlHKC' @ 72057594037927935 : 1 .. '!messages!XV9QZvp77nFPlHKC' @ 0 : 0; will stop at (end)

@@ -1,0 +1,7 @@
+2023/08/31-13:15:47.070 41d0 Recovering log #21
+2023/08/31-13:15:47.080 41d0 Delete type=0 #21
+2023/08/31-13:15:47.080 41d0 Delete type=3 #19
+2023/08/31-13:19:05.483 43c4 Level-0 table #27: started
+2023/08/31-13:19:05.483 43c4 Level-0 table #27: 0 bytes OK
+2023/08/31-13:19:05.485 43c4 Delete type=0 #25
+2023/08/31-13:19:05.497 43c4 Manual compaction at level-0 from '!scenes!EaSt3Pnr1YLOLsPz' @ 72057594037927935 : 1 .. '!scenes.tokens.delta!jQH0pZQ3jfFli8zy.hbL1GVnELEDKYThB.mHS0IkSOUGQZ50FE' @ 0 : 0; will stop at (end)

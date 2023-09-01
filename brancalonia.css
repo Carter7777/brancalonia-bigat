@@ -1,0 +1,367 @@
+@font-face {
+  font-family: "Tracker Grunge";
+  src: url("./fonts/tracker_grunge_regular.ttf");
+}
+@font-face {
+  font-family: "EB Garamond Regular";
+  src: url("./fonts/ebgaramond_regular.ttf");
+}
+@font-face {
+  font-family: "EB Garamond Italic";
+  src: url("./fonts/ebgaramond_italic.ttf");
+}
+
+@font-face {
+	font-family: "EB Garamond Bold";
+	src: url("./fonts/ebgaramond_bold.ttf");
+}
+
+@font-face {
+	font-family: "IM Fell";
+	src: url("./fonts/im_fell_english_regular.ttf");
+}
+
+@font-face {
+	font-family: "Benton";
+	src: url("./fonts/bentonsans_regular.otf");
+}
+
+.journal-entry-page h1 {
+	font-family: "EB Garamond Bold";
+	font-size: 48px;
+	text-align: center;
+	border: none;
+	color: #A61B19;
+}
+
+.journal-entry-page h2 {
+	font-family: "EB Garamond Bold";
+	font-size: 36px;
+	border: none;
+	margin-left: 5px;
+	color: #A61B19;
+}
+
+.journal-entry-page h3 {
+	font-family: "EB Garamond Bold";
+	font-size: 26px;
+	border: none;
+	margin-left: 5px;
+	color: #A61B19;
+}
+
+.brancalonia-mod .window-content h1 {
+  font-family: "EB Garamond Bold";
+  font-size: 48px;
+  text-align: center;
+  border: none;
+  color: #A61B19;
+}
+
+.brancalonia-mod .window-content h2 {
+  font-family: "EB Garamond Bold";
+  font-size: 36px;
+  border: none;
+  margin-left: 5px;
+  color: #A61B19;
+}
+
+.brancalonia-mod .window-content h3 {
+  font-family: "EB Garamond Bold";
+  font-size: 26px;
+  border: none;
+  margin-left: 5px;
+  color: #A61B19;
+}
+
+.brancalonia-mod h4 {
+  font-family: "Headline HPLHS";
+  font-size: 24px;
+  border: none;
+  margin-left: 5px;
+  letter-spacing: 1px;
+}
+
+.brancalonia-mod .citation p {
+	font-family: "IM Fell";
+	font-size: 18px;
+	text-indent:0.2cm;
+	text-align: justify;
+	font-style: italic;
+}
+
+.brancalonia-mod p {
+	font-family: "EB Garamond Regular";
+	font-size: 18px;
+	text-indent:0.2cm;
+	text-align: justify;
+}
+
+.brancalonia-mod li {
+	font-family: "EB Garamond Regular";
+	font-size: 18px;
+}	 
+
+.brancalonia-mod em {
+  font-family: "EB Garamond Italic";
+  font-size: 18px;
+}
+
+.brancalonia-mod .journal-entry-page table td {
+	padding: 5px;
+}
+
+.brancalonia-mod .logo {
+	border: none;
+	content: url('./assets/artwork/logo_generique.webp');
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
+}
+
+.brancalonia-mod .logo_systeme {
+	border: none;
+	content: url('./assets/artwork/logo_systeme.webp');
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
+}
+
+.brancalonia-mod .logo_aventure {
+	border: none;
+	content: url('./assets/artwork/logo_aventure.webp');
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
+}
+
+.brancalonia-mod .note p {
+	font-family: "EB Garamond Regular";
+	font-size: 18px;
+	border: none;
+	margin-left: 5px;
+	color: #A61B19;
+}
+
+.brancalonia-mod .credits {
+	font-family: "EB Garamond Regular";
+	font-size: 16px;
+	text-align: center;
+}
+
+.brancalonia-mod .portrait {
+	float: left; 
+	margin-right: 4px;
+	width: 25%;
+}
+
+.brancalonia-mod .exemple {
+	background-color: #d2ccc8;
+	text-indent:0cm;
+	border-style: solid;
+	border: 2px solid black;
+	border-radius: 8px 8px 8px 8px;
+	box-shadow: 0 8px 8px -7px var(--color-shadow-dark); 
+	padding : 10px 14px 16px 18px;
+}
+
+.brancalonia-mod table {
+	width: 95%;
+	border-collapse: collapse;
+	border: solid 2px;
+	margin-left: 0.5em;
+	margin-right: 0.5em;
+	text-align: center;
+}
+
+.brancalonia-mod table thead {
+	font-family: "EB Garamond Regular";
+	color: white;
+	background-color: black;
+	font-weight: bold;
+	font-size: 22px;
+}
+
+.brancalonia-mod table th {
+	letter-spacing: 2px;
+	font-family: "EB Garamond Regular";
+	color: white;
+	background-color: black;
+	font-weight: bold;
+	font-size: 22px;
+}
+
+.brancalonia-mod table tbody {
+	font-family: "EB Garamond Regular";
+	font-size: 18px;
+	height: 17px;
+}
+
+.brancalonia-mod table td {
+	border: 1px solid;
+}
+
+.brancalonia-mod hr {
+	border: 1px solid;
+}
+
+.brancalonia-mod.image-large {
+	margin-right: 35px;
+  }
+  
+.brancalonia-mod.image-large img {
+	width: 100%;
+	object-fit: contain;
+}
+
+.brancalonia-mod.gamme {
+	border: none;
+}
+
+.brancalonia-mod .two-col {
+	display: grid;
+	place-items: center;
+	grid-template-columns: 1fr 1fr;
+  }
+  
+.brancalonia-mod .two-col p:first-child {
+	padding-right: 10px; 
+	align-self: start;
+  }
+  
+  
+.brancalonia-mod .three-col {
+	display: grid;
+	place-items: center;
+	grid-template-columns: 1fr 1fr 1fr;
+  }
+  
+.brancalonia-mod .two-col p {
+	text-align: center;
+  }
+  
+
+.brancalonia-mod .insert-droite {
+	max-width: 45%;
+	padding-right: 10px;
+	padding-left: 5px;
+	margin-right: 10px;
+	break-inside: avoid;
+	font-style: normal;
+	float: right;
+	border: none;
+	text-align: center;
+  }
+  
+.brancalonia-mod .insert-pnj-droite p {
+	text-align: center;
+  }
+  
+.brancalonia-mod .insert-pnj-droite-mini p {
+	text-align: center;
+  }
+  
+.brancalonia-mod .insert-pnj-gauche p {
+	text-align: center;
+  }
+  
+.brancalonia-mod .insert-gauche {
+	max-width: 40%;
+	padding-right: 5px;
+	padding-left: 10px;
+	margin-left: 10px;
+	break-inside: avoid;
+	font-style: normal;
+	float: left;
+	border: none;
+	text-align: center;
+  }
+  
+  
+.brancalonia-mod .insert-pnj-droite {
+	max-width: 39%;
+	padding-right: 1px;
+	padding-left: 1px;
+	margin-right: 0px;
+	break-inside: avoid;
+	font-style: normal;
+	float: right;
+	border: none;
+	text-align: center;
+  }
+  
+.brancalonia-mod .insert-pnj-droite-mini {
+	max-width: 30%;
+	padding-right: 1px;
+	padding-left: 1px;
+	margin-right: 0px;
+	break-inside: avoid;
+	font-style: normal;
+	float: right;
+	border: none;
+	text-align: center;
+  }
+  
+.brancalonia-mod .insert-pnj-gauche {
+	max-width: 39%;
+	padding-right: 1px;
+	padding-left: 1px;
+	margin-left: 0px;
+	break-inside: avoid;
+	font-style: normal;
+	float: left;
+	border: none;
+	text-align: center;
+  }
+
+
+
+.brancalonia-mod .agenda td {
+	background-color : #666666; 
+  }
+
+
+.brancalonia-mod.conseil-image {
+	width: 50px;
+	height: 50px;
+	border: none;
+	float: left;
+	margin-right: 10px;
+}
+
+.brancalonia-mod.conseil-foundry {
+	background-color: #ff66008e;
+	text-indent: 0cm;
+	border-style: solid;
+	border: 2px solid black;
+	border-radius: 8px 8px 8px 8px;
+	box-shadow: 0 8px 8px -7px var(--color-shadow-dark); 
+	padding : 10px 14px 16px 18px;
+	font-size: larger;s	
+}
+
+
+
+.sheet.journal-entry .journal-entry-content {
+	background-image:url('./assets/artwork/fond.webp');
+}
+
+a.content-link, a.inline-roll {
+	background: transparent;
+	border: 0px;
+}
+
+.gamme table td {
+	border: none;
+}
+
+.sheet.journal-entry .pages-list .page-heading, 
+.sheet.journal-entry .pages-list .heading-link,
+.directory .directory-item.document,
+.system-cthack {
+	font-size: var(--font-size-16);
+} 
+
