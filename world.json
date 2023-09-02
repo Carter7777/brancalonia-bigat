@@ -2,7 +2,7 @@
   "title": "Le Trésor du Bigat",
   "description": "<h2>Le Trésor du Bigat</h2><p>Cette aventure s’inspire en partie du roman <em>Il tesoro del Bigatto</em>, de Giuseppe Pederiali, l’un des piliers de la fantasy italienne.  </p><p> </p><p><em>À l’est de la Fosse, en amont de Bourg-le-Rat, le cours du Vieux Seau sillonne entre les collines jusqu’à une vallée étroite que les péquenauds appellent « vallée du Bigat » :</em></p><p><em>en effet, c’est là qu’habite l’une de ces créatures qui, d’après les rumeurs, posséderait un trésor de pièces d’or et un appétit pour la chair humaine.</em></p><p><em>Nombreux sont ceux ayant cherché la vallée. Peu l’ont trouvée. Personne n’est jamais revenu.</em></p><p>- Braccio da Caprone, Brancalonia Corbellatica : tome V -</p>",
   "url": "https://github.com/Carter7777/brancalonia-bigat",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "system": "dnd5e",
   "manifest": "https://raw.githubusercontent.com/Carter7777/brancalonia-bigat/master/world.json",
   "download": "https://codeload.github.com/Carter7777//brancalonia-bigat/zip/master",
