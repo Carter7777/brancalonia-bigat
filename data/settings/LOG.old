@@ -1,14 +1,14 @@
-2023/08/31-12:45:21.774 30e8 Recovering log #17
-2023/08/31-12:45:21.786 30e8 Delete type=0 #17
-2023/08/31-12:45:21.787 30e8 Delete type=3 #15
-2023/08/31-13:14:04.406 2d58 Level-0 table #23: started
-2023/08/31-13:14:04.412 2d58 Level-0 table #23: 887 bytes OK
-2023/08/31-13:14:04.414 2d58 Delete type=0 #21
-2023/08/31-13:14:04.430 2d58 Manual compaction at level-0 from '!settings!51FcrMNw0pyWJPUa' @ 72057594037927935 : 1 .. '!settings!ylk9wce9MIbauKlc' @ 0 : 0; will stop at '!settings!F3HbAVROjbILwrcq' @ 25 : 1
-2023/08/31-13:14:04.430 2d58 Compacting 1@0 + 1@1 files
-2023/08/31-13:14:04.434 2d58 Generated table #24@0: 11 keys, 1784 bytes
-2023/08/31-13:14:04.434 2d58 Compacted 1@0 + 1@1 files => 1784 bytes
-2023/08/31-13:14:04.437 2d58 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/08/31-13:14:04.439 2d58 Delete type=2 #19
-2023/08/31-13:14:04.439 2d58 Delete type=2 #23
-2023/08/31-13:14:04.456 2d58 Manual compaction at level-0 from '!settings!F3HbAVROjbILwrcq' @ 25 : 1 .. '!settings!ylk9wce9MIbauKlc' @ 0 : 0; will stop at (end)
+2023/09/02-06:50:21.525 3204 Recovering log #27
+2023/09/02-06:50:21.531 3204 Delete type=0 #27
+2023/09/02-06:50:21.531 3204 Delete type=3 #25
+2023/09/02-06:51:42.874 28c8 Level-0 table #33: started
+2023/09/02-06:51:42.876 28c8 Level-0 table #33: 887 bytes OK
+2023/09/02-06:51:42.879 28c8 Delete type=0 #31
+2023/09/02-06:51:42.890 28c8 Manual compaction at level-0 from '!settings!51FcrMNw0pyWJPUa' @ 72057594037927935 : 1 .. '!settings!ylk9wce9MIbauKlc' @ 0 : 0; will stop at '!settings!F3HbAVROjbILwrcq' @ 29 : 1
+2023/09/02-06:51:42.890 28c8 Compacting 1@0 + 1@1 files
+2023/09/02-06:51:42.892 28c8 Generated table #34@0: 11 keys, 1784 bytes
+2023/09/02-06:51:42.893 28c8 Compacted 1@0 + 1@1 files => 1784 bytes
+2023/09/02-06:51:42.895 28c8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/09/02-06:51:42.895 28c8 Delete type=2 #29
+2023/09/02-06:51:42.896 28c8 Delete type=2 #33
+2023/09/02-06:51:42.896 28c8 Manual compaction at level-0 from '!settings!F3HbAVROjbILwrcq' @ 29 : 1 .. '!settings!ylk9wce9MIbauKlc' @ 0 : 0; will stop at (end)
